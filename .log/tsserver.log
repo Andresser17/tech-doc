@@ -1,0 +1,13 @@
+Info 0    [10:55:01.888] Starting TS Server
+Info 1    [10:55:01.910] Version: 4.3.4
+Info 2    [10:55:01.910] Arguments: /usr/bin/node /usr/bin/tsserver --logFile /home/andresser17/Projects/tech-doc/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/180d7baf841c9265789e4008eb895aac/tscancellation*
+Info 3    [10:55:01.910] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [10:55:01.910] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [10:55:02.024] Search path: /home/andresser17/Projects/tech-doc
+Info 6    [10:55:02.031] For info: /home/andresser17/Projects/tech-doc/main.js :: No config files found.
+Info 7    [10:55:02.054] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [10:55:09.897] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 7842.271453999914ms
+Info 9    [10:55:09.897] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [10:55:09.898] 	Files (19)
+
+Info 11   [10:55:09.898] -----------------------------------------------
